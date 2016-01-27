@@ -1,0 +1,21 @@
+.nav-row {
+	height: 61px;
+	background-color: blue;
+}
+
+.welcome-row {
+	height: 446px;
+	background-color: orange;
+}
+
+.search-nav-row {
+	height: 104px;
+	background-color: yellow;
+}
+
+.city-picture {
+	border: 2px solid blue;
+	margin-bottom: 3px;
+	height: 150px;
+	background-color: red;
+}
